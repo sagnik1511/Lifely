@@ -18,6 +18,9 @@ If you have any heart issues this app will predict it 92% correctly.
              ii)  Numpy
              iii)  Pickle
              iv)   Streamlit
+   or you can simply write a code in CLI
+   
+               $ pip install requirements.txt
              
  2. Any Python IDE :   I've used Spyder 4.1.0
  3. Python Prompt : to run the webapp locally
