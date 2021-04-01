@@ -13,9 +13,10 @@ yn=['NO','YES']
 
 st.write("""
 # Lifely
+![](https://github.com/sagnik1511/Lifely/blob/main/Lifely.png)
 **Heart Disease Diagonistic App**
 
-Try it for free.
+Check your cardiac health for free💝💗.
 
 """)
 
