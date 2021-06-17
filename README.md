@@ -1,5 +1,6 @@
 
-#  Lifely  <img src="https://github.com/sagnik1511/Lifely/blob/main/Lifely.png" alt="Lifely" width="70px">
+#  Lifely  
+<img src="https://github.com/sagnik1511/Lifely/blob/main/logo.png" alt="Lifely" width="70px">
 
 Heart Disease Diagonstic web app 
 
