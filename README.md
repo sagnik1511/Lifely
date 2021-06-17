@@ -11,15 +11,21 @@ If you have any heart issues this app will predict it 92% correctly.
 
 ## App Interface :
 
-![](https://github.com/sagnik1511/Lifely/blob/main/Visualization_on_web.png)
+|Desktop|Phone|
+|-|-|
+|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/ds1.png)|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/p1.jpg)|
+|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/ds2.png)|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/p2.jpg)|
+|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/ds3.png)|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/p3.jpg)|
 
 ## Required Tech:
 1. Python 3.7 or higher with libraries :
              
-             i)   Pandas
-             ii)  Numpy
-             iii)  Pickle
-             iv)   Streamlit
+               i) base64
+              ii) matplotlib
+             iii) numpy
+              iv) pandas
+               v) pickleshare
+              vi) streamlit 
    or you can simply write a code in CLI
    
                $ pip install requirements.txt
