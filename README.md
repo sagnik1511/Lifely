@@ -1,16 +1,13 @@
+<u><h1 align = center>Lifely </h1></u>
+<p align=center><img src="https://github.com/sagnik1511/Lifely/blob/main/logo.png" alt="Lifely" width="270px"></p>
 
-#  Lifely  
-<img src="https://github.com/sagnik1511/Lifely/blob/main/logo.png" alt="Lifely" width="70px">
+<h3><p align=center>Live at  <a  href="https://lifely-hdd.herokuapp.com">Heroku</a></p>
+<p align=center>See stats at  <a  href="https://githubmemory.com/repo/sagnik1511/Lifely">sagnik1511/Lifely</a></p></h3>
+<h3><p align=center>Heart DIsease Diagnostic Web Application</p>
+<p align=center>Developed with ❤️ by SAGNIK ROY</p>
+<p align=center>These app hase been developed for the people who want keep balance in the life . If you have any heart issues this app will predict it 92% correctly.</p></h3>
 
-Heart Disease Diagonstic web app 
-
-Developed with ❤️ by SAGNIK ROY
-
-These app hase been developed for the people who want keep balance in the life .
-If you have any heart issues this app will predict it 92% correctly.
-
-
-## App Interface :
+<u><h2 align=center>App Interface :</h2></u>
 
 |Desktop|Phone|
 |-|-|
@@ -18,7 +15,7 @@ If you have any heart issues this app will predict it 92% correctly.
 |![](https://github.com/sagnik1511/Lifely/blob/main/Interface/ds2.png)|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/p2.jpg)|
 |![](https://github.com/sagnik1511/Lifely/blob/main/Interface/ds3.png)|![](https://github.com/sagnik1511/Lifely/blob/main/Interface/p3.jpg)|
 
-## Required Tech:
+<u><h2 align=center>Required Tech</h2></u>
 1. Python 3.7 or higher with libraries :
              
                i) base64
@@ -37,7 +34,8 @@ If you have any heart issues this app will predict it 92% correctly.
  
  
  
- ## Procedure :
+
+<u><h2 align=center>Installation Procedure</h2></u>
  
  1. Create a new environment in python prompt  : Use this procedure :  https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
  2. Then create a folder and add all the files in it. (example : heart_disease)
