@@ -3,6 +3,8 @@
 
 <h3><p align=center>Live at  <a  href="https://lifely-hdd.herokuapp.com">Heroku</a></p>
 <p align=center>See stats at  <a  href="https://githubmemory.com/repo/sagnik1511/Lifely">sagnik1511/Lifely</a></p></h3>
+
+<h3><p align=center>Analogy deployed on <a  href="https://miamarketplace.com/apps/qjiKAmGMVWpaPT_99x3x7X_9MkUF_iM3ZTKfCUdzK7yd">Mia Marketplace</a></p></h3>
 <h3><p align=center>Heart DIsease Diagnostic Web Application</p>
 <p align=center>Developed with ❤️ by SAGNIK ROY</p>
 <p align=center>These app hase been developed for the people who want keep balance in the life . If you have any heart issues this app will predict it 92% correctly.</p></h3>
