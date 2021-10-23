@@ -124,9 +124,9 @@ if st.sidebar.button('Submit'):
         axes[1].set_color('r')
         st.pyplot(fig)
         
-        st.markdown("<h2>Developed with ❤ by <a style='display: block; text-align: center;' href='http://happai.epizy.com' target='_blank'>Sagnik Roy</a></h2>",unsafe_allow_html = True)
+        st.markdown("<h2>Developed with ❤ by <a style='display: block; text-align: center;' href='http://happyai.epizy.com' target='_blank'>Sagnik Roy</a></h2>",unsafe_allow_html = True)
 
 
 st.sidebar.markdown("""Follow me on [Kaggle](https://kaggle.com/sagnik1511) , [Instagram](https://www.instagram.com/tensored___/) , [Github](https://github.com/sagnik1511)""")
-st.sidebar.markdown("""Know more about me [Sagnik Roy](http://happai.epizy.com)""")
+st.sidebar.markdown("""Know more about me [Sagnik Roy](http://happyai.epizy.com)""")
 #-----------------------------------------------------------------
